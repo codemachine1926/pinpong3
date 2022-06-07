@@ -1,0 +1,32 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.btnm{
+    background-color: black;
+    color: white;
+    border: solid 2px aqua;
+    float: right;
+    width: 120px;
+    height: 40px;
+    font-size: 20px;
+}
+.heading{
+    width: 100%;
+}
+.heading h1{
+    display: inline;
+}
+#status{
+    display: inline;
+}
+.footer{
+    background-color: black;
+    color: white;
+    border: solid 3px cyan;
+    margin: 0px;
+    line-height: 2;
+}
+canvas{
+    border: solid 4px green;
+}
